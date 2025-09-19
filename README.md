@@ -28,7 +28,10 @@ Xây dựng ứng dụng quản lý nhạc
 
 I. Người dùng (Anh Duy):
 .........
-
+maNguoiDung
+tenNguoiDung
+ngaySinh
+gioiTinh
 .........
 II. Bài hát (Anh Quân):
 tenBaiHat
